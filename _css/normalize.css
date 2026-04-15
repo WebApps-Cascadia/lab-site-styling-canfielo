@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /**
-  * These stylse "normalize" web browser stylingby resetting most of the browsers' default styles so you have a clean baseline to create your own CSS styling for the site.*/
+  * These stylse "normalize" web browser styling by resetting most of the browsers' 
+  default styles so you have a clean baseline to create your own CSS styling for the site.*/
 
 /* Normalizes margin, padding */
 *{ padding:0; margin:0;}
